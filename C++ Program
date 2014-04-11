@@ -4,10 +4,10 @@ int main() {
    int x, n, s, min, max;
    ifstream in("data.txt");
    ofstream out("output.txt");
-   n = 0; // For counting number of integers
-   s = 0; // For adding up all the integers
-   max=0; // For finding the largest integer
-   min=100;// For finding the smallest integer
+   n = 0; //For counting number of integers
+   s = 0; //For adding up all the integers
+   max=0; //For finding the largest integer
+   min=100;//For finding the smallest integer
    while (in >> x){
     n = n + 1;
     s = s + x;
