@@ -1,0 +1,4 @@
+The number of integers is 6
+The largest number is 6
+The smallest number is 1
+The sum of all the numbers is 21
