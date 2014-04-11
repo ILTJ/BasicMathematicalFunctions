@@ -14,7 +14,7 @@ int main() {
     if (x>max) max=x;
     if (x<min) min=x;
    }
-   out << "Number of integers is " << n << endl;
+   out << "The number of integers is " << n << endl;
    out << "The largest number is " << max << endl;
    out << "The smallest number is" << min << endl;
    out << "The sum of all the numbers is" << s << endl;
